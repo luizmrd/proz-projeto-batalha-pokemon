@@ -1,1 +1,1 @@
-# proz-projeto-batalha-pokemon
+# proz-projeto-batalha-pokemo
